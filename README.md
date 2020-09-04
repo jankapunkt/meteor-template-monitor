@@ -6,7 +6,7 @@
 
 # Meteor Template Monitor
 
-Get basic insights into your template. Tracks the following `Template` insternals:
+Monitoring for Blaze templates. Tracks the following `Template` internals:
 
 - `Template.prototype.onCreated`
 - `Template.prototype.onRendered`
