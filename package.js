@@ -15,7 +15,7 @@ Package.onUse(function (api) {
   api.versionsFrom('1.6')
   api.use([
     'ecmascript',
-    'templating@1.3.2'
+    'templating@1.0.0'
   ], 'client')
   api.addFiles('template-monitor.js', 'client')
 })

@@ -76,4 +76,4 @@ does not use this rounding or disable it in Firefox.
 
 ## License
 
-MIT, see [LICENSE](./LICENSE)
+MIT, see [LICENSE](LICENSE)
